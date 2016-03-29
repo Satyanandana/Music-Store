@@ -1,0 +1,79 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Music Store</title>
+<link rel="stylesheet" href="/music2/styles/main.css;jsessionid=6B58AEBD31F28CBB9556590CCCA914E0">
+<!-- Latest compiled and minified CSS -->
+
+<!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body>
+	<header>
+
+	<h1 id="title">MUSIC STORE</h1>
+	<div id="header">
+		
+		
+		
+		<UL>
+			<LI class="header"><A class="header" HREF="/music2/login.html;jsessionid=6B58AEBD31F28CBB9556590CCCA914E0?preUrl=/welcome.html">Login </A></LI>
+			<LI class="header"><A class="header" HREF="/music2/register.html;jsessionid=6B58AEBD31F28CBB9556590CCCA914E0?preUrl=/welcome.html">Register</A></LI>
+			<LI class="header"><A class="header" HREF="/music2/logout.html;jsessionid=6B58AEBD31F28CBB9556590CCCA914E0">Logout</A></LI>
+		</UL>
+	</div>
+
+	</header>
+	<main>
+
+
+	
+	
+<aside>
+	<UL>	
+	<LI><A class="header" HREF="/music2/catalog.html;jsessionid=6B58AEBD31F28CBB9556590CCCA914E0"> Browse Catalog </A> </LI>
+	<LI><A class="header" HREF="/music2/displayCart.html;jsessionid=6B58AEBD31F28CBB9556590CCCA914E0"> Show Cart</A> </LI>	
+	<LI><A class="header" HREF="/music2/welcome.html;jsessionid=6B58AEBD31F28CBB9556590CCCA914E0"> Back to Site Homepage</A></LI>
+</UL>
+</aside>
+
+<content>
+<br>
+<h1>Product Info</h1>
+<br>
+
+<p >Product Code: 8601 </p>
+
+<p>Product Description: 86 (the band) - True Life Songs and Pictures </p>
+
+<p>Price: 14.95 </p>
+<h1>Tracks</h1>
+
+	<table>
+		<tr>
+			<th align="left">Song</th>
+			<th align="left">Listen</th>
+
+		</tr>
+		
+			<tr>
+				<td>You Are a Star</td>
+				<td><a href="/music2/listen.html;jsessionid=6B58AEBD31F28CBB9556590CCCA914E0?proCode=8601&trackNum=2">Listen</a></td>
+			</tr>
+		
+			<tr>
+				<td>Don't Make No Difference</td>
+				<td><a href="/music2/listen.html;jsessionid=6B58AEBD31F28CBB9556590CCCA914E0?proCode=8601&trackNum=3">Listen</a></td>
+			</tr>
+		
+	</table>
+	</content>
+	</main>
+<footer>
+		<p class="copyright" align="center">&copy; Copyright 
+		Mike Murach &amp; Associates, Inc. All rights reserved.</p>
+
+</footer>
+</body>
+</html>

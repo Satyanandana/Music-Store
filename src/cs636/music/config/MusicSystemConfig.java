@@ -25,8 +25,7 @@ import cs636.music.service.UserService;
 import cs636.music.service.UserServiceAPI;
 
 /**
- * @author Betty O'Neil, modified by Chung-Hsien Yu
- *
+  *
  * Configure the service objects, shut them down
  * 
  */
